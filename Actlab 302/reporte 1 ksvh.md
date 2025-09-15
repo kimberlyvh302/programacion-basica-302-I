@@ -1,4 +1,4 @@
-
+``` cpp
 %%writefile PB302_1.cpp
 //progrma para imprimir mensaje de bienvenda
 //creado por kimberly saidel valladares hernandez
@@ -12,3 +12,4 @@ int main()
   cout<<"Gracias por programar en clase";
   return 0;
 }
+```
